@@ -1,0 +1,5 @@
+the project was built during 2-days of Reality, Virtually, Hackathon! at he MIT Media Lab, october 2016
+
+to run you need a tracked HMD (I used VIVE, but you could use Oculus, as well)
+and TouchDesigner - a rapid visual development environment that is imho perfect for hackathons
+
